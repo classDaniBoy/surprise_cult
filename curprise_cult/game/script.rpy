@@ -25,7 +25,7 @@ label start:
 
     # These display lines of dialogue.
 
-    cc "You've created a new Ren'Py game."
+    cc "You've crRen'Py game."
 
     cc "Once you add a story, pictures, and music, you can release it to the world!"
 
